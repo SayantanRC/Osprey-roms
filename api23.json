@@ -16,6 +16,6 @@
 		"download":"https://basketbuild.com/uploads/devs/resurrectionremix/osprey/ResurrectionRemix-M-v5.7.4-20160922-osprey.zip",
 		"page":"https://basketbuild.com/devs/resurrectionremix/osprey",
 		"xda":"https://forum.xda-developers.com/2015-moto-g/development/rom-resurrection-remix-5-5-t3197371",
-		"donate":["https://www.paypal.com/cgi-bin/webscr?cmd=_flow&SESSION=GwSx3-xO9RnVzehxCIU5QiPcipAWKTysL-KmrUH0ZD03LzCgWphZ_GgM9dm&dispatch=5885d80a13c0db1f8e263663d3faee8db8175432b4df92754f4b4adb5a123d61&rapidsState=Donation__DonationFlow___StateDonationFatalError&rapidsStateSignature=221cdb70c629371ff1dbf16f96f7e7c820e71835"]
+		"donate":[{"Developer":"https://www.paypal.com/cgi-bin/webscr?cmd=_flow&SESSION=GwSx3-xO9RnVzehxCIU5QiPcipAWKTysL-KmrUH0ZD03LzCgWphZ_GgM9dm&dispatch=5885d80a13c0db1f8e263663d3faee8db8175432b4df92754f4b4adb5a123d61&rapidsState=Donation__DonationFlow___StateDonationFatalError&rapidsStateSignature=221cdb70c629371ff1dbf16f96f7e7c820e71835"}]
 	}
 }
