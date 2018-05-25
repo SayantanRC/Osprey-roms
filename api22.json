@@ -1,0 +1,21 @@
+{
+	"Cyanogenmod 12.1":{
+		"build":"Alberto97",
+		"status":"Snapshot",
+		"updated":"2017/01/13",
+		"download":"https://archive.org/download/cmarchive_snapshots/cm-13.0-20161221-SNAPSHOT-ZNH5YAO3Y3-osprey.zip",
+		"page":"https://archive.org/download/cmarchive_snapshots",
+		"xda":"https://forum.xda-developers.com/2015-moto-g/orig-development/rom-cyanogenmod-moto-g-3rd-gen-t3174926",
+		"donate":[]
+	},
+	
+	"Tipsy OS":{
+		"build":"Vatsal",
+		"status":"Stable",
+		"updated":"2015/10/19",
+		"download":"qc1.androidfilehost.com/dl/zPHdIr_5MseBGGgBT3UrVQ/1527328852/24052804347841489/tipsy-osprey-5.1.1.Affligem.v2.1--20151019-1421.zip",
+		"page":"https://androidfilehost.com/?w=files&flid=39840",
+		"xda":"https://forum.xda-developers.com/2015-moto-g/development/rom-tipsy-os-t3194257",
+		"donate":[]
+	}
+}
