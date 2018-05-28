@@ -1,2 +1,0 @@
-Pure AOSP 8.1 build by Alberto97.
-This is the backbone of all Oreo ROMs for Moto G 2015.

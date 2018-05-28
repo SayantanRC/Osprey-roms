@@ -1,6 +1,7 @@
 {
 	"build":"ishubhamsingh",
 	"status":"Official",
+	"description":"ROM based on AOSP, with some important tweaks. This ROM is characterised by its exceptional stability, along with good features.",
 	"download":"https://downloads.aospextended.com/download/STJwVXZaS20raFZXaEtnTExSM2VoQUhBTXgyY3lWaWNEdVZITkx5VFpzaz0=",
 	"page":"https://downloads.aospextended.com/osprey/",
 	"xda":"https://forum.xda-developers.com/2015-moto-g/development/rom-aospextended-rom-v5-0-t3681997",

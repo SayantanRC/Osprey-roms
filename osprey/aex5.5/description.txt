@@ -1,1 +1,0 @@
-ROM based on AOSP, with some important tweaks. This ROM is characterised by its exceptional stability, along with good features.
