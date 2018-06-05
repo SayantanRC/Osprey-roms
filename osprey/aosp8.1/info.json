@@ -7,6 +7,6 @@
 	"description":"Pure AOSP 8.1 build by Alberto97. This is the backbone of all Oreo ROMs for Moto G 2015.",
 	"page":"https://androidfilehost.com/?w=files&flid=230709&sort_by=date&sort_dir=DESC",
 	"xda":"https://forum.xda-developers.com/2015-moto-g/orig-development/rom-android-source-project-8-0-t3709129",
-	"donate":[],
+	"donate":{},
 	"adUnitId":""
 }
