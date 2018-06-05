@@ -7,6 +7,6 @@
 	"description":"ROM based on AOSP, with some important tweaks. This ROM is characterised by its exceptional stability, along with good features.",
 	"page":"https://downloads.aospextended.com/osprey/",
 	"xda":"https://forum.xda-developers.com/2015-moto-g/development/rom-aospextended-rom-v5-0-t3681997",
-	"donate":[],
+	"donate":{},
 	"adUnitId":""
 }
