@@ -1,0 +1,12 @@
+{
+  "rom_name":"Viper OS",
+  "platform":"api25",
+  "device":"osprey",
+  "build":"JBCDroid",
+  "status":"Official",
+  "description":"If you are looking for a stable ROM with true tested features, minimal bugs and no Lineage bloatwares, then this is the place to be.",
+  "page":"https://androidfilehost.com/?w=files&flid=179031",
+  "xda":"https://forum.xda-developers.com/2015-moto-g/development/rom-viperos-v1-0-moto-g-2015-t3610138",
+  "donate":{},
+  "adUnitId":""
+}
