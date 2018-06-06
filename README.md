@@ -11,6 +11,19 @@ I absolutely respect the amazing work of developers. This app is a result of my 
 
 <b><i>If this is not a violation of Google Admob policies, then developers will need to:
   1. Create an Admob account
-  2. Make a banner ad.
+  2. Make a banner ad.  
   3. Send me the banner ad id along with other information.
 The ROM page of the developer will have a banner ad with the given id. So whenever someone opens the ROM page of your ROM, your ad will make impressions and you will earn some revenue.</b></i>
+
+## Prerequisites
+Mandatory requirements (may change in future)
+1. Your ROM must be available on XDA.
+2. ROM sources must be available on GitHub.
+3. Do not compile a ROM which is already available.
+4. A verification process will take place. You must have access to your XDA account and a valid email address.
+
+Optional requirements
+1. You can also have anything else (like Firefox OS, lol) other than Android, as your base.
+2. You should have a ROM icon image.
+3. You should have some screenshots. <b>A maximum of 10 screenshots are allowed.<b>
+
