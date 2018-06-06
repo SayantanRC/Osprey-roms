@@ -1,0 +1,12 @@
+{
+  "rom_name":"Pixel Experience",
+  "platform":"api27",
+  "device":"osprey",
+  "build":"Subinsmani",
+  "status":"Official",
+  "description":"An AOSP based ROM, with gapps included, and all Pixel stuffs (launcher, wallpapers, icons, fonts, bootanimation).",
+  "page":"https://download.pixelexperience.org/osprey/",
+  "xda":"https://forum.xda-developers.com/2015-moto-g/development/rom-pixel-experience-t3746443",
+  "donate":{},
+  "adUnitId":""
+}
